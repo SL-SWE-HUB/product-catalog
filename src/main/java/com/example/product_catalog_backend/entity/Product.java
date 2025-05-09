@@ -1,7 +1,6 @@
 package com.example.product_catalog_backend.entity;
 
 import jakarta.persistence.*;
-import org.springframework.data.annotation.Id;
 
 import java.math.BigDecimal;
 import java.util.Objects;
